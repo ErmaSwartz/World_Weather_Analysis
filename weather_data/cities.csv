@@ -1,4 +1,4 @@
-City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed
+City_data,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed
 0,Hobart,AU,-42.8794,147.3294,64.0,63,75,12.66
 1,Matara,LK,5.9485,80.5353,76.17,89,87,5.35
 2,Vaini,TO,-21.2,-175.2,86.0,79,75,11.5
