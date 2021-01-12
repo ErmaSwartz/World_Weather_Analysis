@@ -1,4 +1,4 @@
-Hotel_Name,City,Country,Max Temp,Description,Lat,Lng,Hotel Name
+City_ID,City,Country,Max Temp,Description,Lat,Lng,Hotel Name
 2,Mataura,NZ,76.59,clear sky,-46.1927,168.8643,Ellie's Villa
 9,Rikitea,PF,78.39,few clouds,-23.1203,-134.9692,Pension Maro'i
 13,Ulladulla,AU,89.01,clear sky,-35.35,150.4667,Sandpiper Motel
